@@ -1,5 +1,8 @@
 name: Neuvector Allinone
 description: >
   Neuvector Allinone Stack
-version: 0.1
+version: 0
 category: Security
+maintainer: Kevin Li
+license: 
+projectURL: https://github.com/kevinl94303/Rancher-Catalog-Neuvector-Allinone/
